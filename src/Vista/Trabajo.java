@@ -179,7 +179,7 @@ public class Trabajo extends javax.swing.JFrame {
             int residuoDerecha=0;
             for (int i = 0; i < diasFacturacion.length; i++) {
                 if(diasFacturacion[i] < fecha_provicional && diasFacturacion[i+1]> fecha_provicional){
-                    residuoIzquierda = diasFacturacion[i]-fecha_provicional;
+                    residuoIzquierda = fecha_provicional-diasFacturacion[i];
                     residuoDerecha = diasFacturacion[i+1]-fecha_provicional;
                     if(residuoIzquierda < residuoDerecha){
                         fecha_facturacion= diasFacturacion[i];
