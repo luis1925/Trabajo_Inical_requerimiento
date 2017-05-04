@@ -3,7 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/D:/5to%20ciclo/INGENIERIA%20DE%20REQUERIMIENTOS/Trabajo01%20-%20Ciclo%20de%20Facturacion/Trabajo_Inical_requerimiento/src/Vista/Trabajo.java</file>
+=======
+            <file>file:/D:/Nueva%20carpeta/UNI%20ING.SISTEMAS/V%20Ciclo/Proyectos/Trabajo_Inical_requerimiento/src/Vista/Trabajo.java</file>
+            <file>file:/D:/Nueva%20carpeta/UNI%20ING.SISTEMAS/V%20Ciclo/Proyectos/Trabajo_Inical_requerimiento/src/Modelo/Empresa.java</file>
+            <file>file:/D:/Nueva%20carpeta/UNI%20ING.SISTEMAS/V%20Ciclo/Proyectos/Trabajo_Inical_requerimiento/src/Control/ArregloFechas.java</file>
+            <file>file:/D:/Nueva%20carpeta/UNI%20ING.SISTEMAS/V%20Ciclo/Proyectos/Trabajo_Inical_requerimiento/src/Control/ArregloEmpresa.java</file>
+            <file>file:/D:/Nueva%20carpeta/UNI%20ING.SISTEMAS/V%20Ciclo/Proyectos/Trabajo_Inical_requerimiento/src/Modelo/Fechas.java</file>
+>>>>>>> master_luis
         </group>
     </open-files>
 </project-private>
